@@ -8,7 +8,7 @@ class Computer extends Component {
         <div
           style={{
             backgroundColor: "#9370DB",
-            height: "52vh",
+            height: "54vh",
             color: "white",
           }}
         >
@@ -72,7 +72,7 @@ class Computer extends Component {
         <div
           style={{
             backgroundColor: "#FAF0E6",
-            height: "41vh",
+            height: "39vh",
             color: "black",
           }}
         >

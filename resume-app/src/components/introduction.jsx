@@ -19,7 +19,7 @@ class Introduction extends Component {
             <div></div>
             <h1 style={{ fontSize: "10.5vh" }}>
               Hello, I am <br />
-              Zhe Ren
+              Zhe&nbsp;Ren
             </h1>
             <h5>
               I am a student at the Nanyang Technological University in
@@ -51,7 +51,7 @@ class Introduction extends Component {
             className="row col-6 offset-3 text-center"
           >
             <h5>
-              Everything here is made using the React javascript framework and
+              I coded everything here using the React javascript framework and
               the Twitter Bootstrap css framework.
             </h5>
             <br />
