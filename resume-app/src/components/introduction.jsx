@@ -21,11 +21,11 @@ class Introduction extends Component {
               Hello, I am <br />
               Zhe&nbsp;Ren
             </h1>
-            <h5>
+            <h3>
               I am a student at the Nanyang Technological University in
-              Singapore, studying Computer Engineering.
+              Singapore, studying towards a Bachelor's in Computer Engineering.
               <br />I also make music.
-            </h5>
+            </h3>
           </div>
         </div>
 
