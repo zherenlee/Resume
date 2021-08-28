@@ -9,7 +9,7 @@ class Music extends Component {
           style={{
             backgroundColor: "#F0FFFF",
             height: "104vh",
-            color: "white",
+            color: "black",
           }}
         >
           <div className="col-6 offset-3">
