@@ -7,8 +7,8 @@ class Music extends Component {
       <React.Fragment>
         <div
           style={{
-            backgroundColor: "#9370DB",
-            height: "54vh",
+            backgroundColor: "#F0FFFF",
+            height: "104vh",
             color: "white",
           }}
         >
